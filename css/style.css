@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #5F7161;
+  font-size: 90px;
+  font-family: 'Water Brush', cursive;
+  margin: 50px auto 0 auto;
+
+}
+
+h2 {
+  color: #6D8B74;
+  font-size: 2.5rem;
+}
+
+.top {
+  background-color: powderblue;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle {}
+
+.bottom {}
+
+.image {
+  width: 10%;
+}
+
+.img1 {
+  position: relative;
+  left: 250px;
+}
+
+.img2 {
+  position: absolute;
+}
+
+.img3 {
+  position: relative;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2rem;
+}
+
+.com {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.chill {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
